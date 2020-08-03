@@ -119,14 +119,14 @@ color: #E0B612;
 }
 @keyframes hinge{
     20%, 60%{
-        transform: rotate(70deg);
+        transform: rotate(60deg);
     }
     40%, 80%{
-        transform: rotate(55deg);
+        transform: rotate(45deg);
         opacity: 1;
     }
     100%{
-        transform: translateY(600px);
+        transform: translateY(500px);
         opacity: 0;
     }
 }
